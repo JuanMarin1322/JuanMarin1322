@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🇨🇴 I'm from Palmira, Colombia.
 - 🔭 I’m currently studying at Universidad Autonoma de Occidente.
 - 📚 I'm Engineering Informatics in my last year.
-- 🌱 I’m currently learning JS, Node and React JS.
+- 🌱 I’m currently learning JS, Node.JS and React.
